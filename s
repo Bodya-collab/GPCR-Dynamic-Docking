@@ -1,0 +1,1 @@
+& "C:\Users\богдан\AppData\Local\Programs\Python\Python310\python.exe" -m streamlit run app_gpcr.py 
