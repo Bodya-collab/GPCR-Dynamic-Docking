@@ -13,11 +13,12 @@ Unlike static rigid-body viewers, this dashboard implements real-time stochastic
 
 **1. The Approach (Pre-Docking)**
 Before the ligand enters the binding site, the receptor's pocket begins to open via sigmoidal conformational easing.
-![Pre-Docking Phase](images/pre_docking.png)
+![Pre-Docking Phase]<img width="1844" height="874" alt="image" src="https://github.com/user-attachments/assets/92cccf6f-013f-4a48-ad79-6dcade0d3cf2" />
+
 
 **2. The Induced-Fit (Post-Docking)**
 The Monte Carlo engine finds the optimal local energy minimum, safely navigating steric clashes within the newly expanded pocket.
-![Post-Docking Phase](images/post_docking.png)
+![Post-Docking Phase]<img width="1852" height="856" alt="image" src="https://github.com/user-attachments/assets/4210a878-cb19-40b1-a0db-633793feb1b8" />
 
 **3. Real-Time Thermodynamics Analytics**
 Tracking the calibrated Lennard-Jones potential (Vina-like $\Delta G$) and Metropolis acceptance rate across the simulation timeline.
