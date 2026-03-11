@@ -22,7 +22,8 @@ The Monte Carlo engine finds the optimal local energy minimum, safely navigating
 
 **3. Real-Time Thermodynamics Analytics**
 Tracking the calibrated Lennard-Jones potential (Vina-like $\Delta G$) and Metropolis acceptance rate across the simulation timeline.
-![Analytics Dashboard]<img width="1852" height="856" alt="image" src="https://github.com/user-attachments/assets/4210a878-cb19-40b1-a0db-633793feb1b8" />
+![Analytics Dashboard]<img width="1844" height="681" alt="image" src="https://github.com/user-attachments/assets/d5da09a4-b614-43ac-a3f4-cf6cc36e7a8f" />
+
 
 
 ## ✨ Key Features
